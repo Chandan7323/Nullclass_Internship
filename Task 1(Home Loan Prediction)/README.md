@@ -1,5 +1,3 @@
-Here is a sample text for the README file of your Home Loan Prediction model:
-
 ---
 
 # Home Loan Prediction Model
